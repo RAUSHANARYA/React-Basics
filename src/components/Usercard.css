@@ -1,0 +1,12 @@
+.userContainer{
+    background-color: rgb(131, 91, 6);
+    padding: 10px;
+    width: 250px;
+
+   
+}
+
+#imageid{
+    width: 200px;
+    border-radius: 50%;
+}

@@ -1,0 +1,37 @@
+
+component - is like a function - class based , function based - used widley
+
+--- reusely widley 
+
+-- write all the code in src- component - make file and use them 
+
+how it work --
+ index . html --> main.jsx --> app.jsx --> 
+
+ in app.jsx - import the compent file -- and use 
+ import file from compnent/file 
+
+ and all code write in compient file - beacuse react build in component by compenent
+
+ alway export kroge - tabi import kr paoge 
+
+
+ == 
+ imp
+
+ sb ek single div m hona chy , no use multiple tag 
+
+
+==================
+
+lect 3 = 04/06
+
+useState 0-topic 
+
+react provide some feature which can use by use state 
+
+use_state provide - state function // use variable 
+eg =   const[count , setCount] = useState(0);
+
+count = varibale store starting value 0 
+setCount - fn use to change the count value 
